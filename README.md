@@ -1,3 +1,5 @@
+# Important note: I am currently attending the 231st AAS. I will continue to update this repository soon. Plaese come back later. Thanks.
+
 # Hydrodynamic models used in the ngVLA paper
 
 M_P | r_P [AU] | alpha | Disk mass (Msun) | Surface density | ALMA 0.87mm | ngVLA 3mm
